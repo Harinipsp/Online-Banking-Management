@@ -1,6 +1,6 @@
 # Online-Banking-Management
 This innovative project introduces a sophisticated Online Banking System, meticulously crafted to streamline processes and enhance user experiences. The synergy of Java and MySQL technologies empowers the system to offer a diverse range of functionalities, demonstrating the profound implications on contemporary banking practices
-# MySQL Connector/J Integration
+# MySQL Connector/J Integration 
 The Online Banking System leverages MySQL as its relational database management system. To establish connectivity between the Java application and the MySQL database, the MySQL Connector/J(JAR file), a JDBC driver for MySQL, is utilized. Here are the steps to connect JDBC in Appache NetBeans.
 
 # Step 1: Download and Install MySQL Connector/J
